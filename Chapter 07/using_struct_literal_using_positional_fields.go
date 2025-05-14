@@ -1,0 +1,1 @@
+person := Person{"Alice", 30}
